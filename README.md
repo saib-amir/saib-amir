@@ -1,16 +1,16 @@
 ### 👋 Hi there, I’m **Saib Amir**
 
-🔭 **I’m currently working on** web automation bots, smart data scraping pipelines, and tools that help businesses automate repetitive workflows using Python (Selenium, Playwright, Scrapy).
+🔭 **Currently building** smart web automation bots and scalable data scraping systems that help businesses save time and eliminate repetitive manual work using Python, Selenium, Playwright, and Scrapy.
 
-👯 **I’m looking to collaborate on** open-source tools related to web automation, data extraction libraries, and Python utility projects that solve real-world automation problems.
+👯 **Open to collaborating on** impactful automation tools, data extraction frameworks, and Python-based solutions that solve real business problems.
 
-🤝 **I’m looking for help with** scaling and optimizing automated data pipelines, deployment workflows (CI/CD), and real-time scraping systems.
+🤝 **Looking for help with** optimizing large-scale scraping systems, improving deployment workflows, and building more efficient cloud-based automation pipelines.
 
-🌱 **I’m currently learning** advanced asynchronous tooling in Python, cloud automation orchestration, and distributed scraping systems.
+🌱 **Continuously learning** advanced asynchronous Python, distributed scraping architectures, and automation infrastructure on the cloud.
 
-💬 **Ask me about** Python, Selenium, Playwright, Scrapy, web crawling, structured data extraction, and automation best practices.
+💬 **Ask me about** web automation, browser bots, structured data extraction, scraping complex websites, and turning manual workflows into fully automated systems.
 
-⚡ **Fun fact:** I build bots that do the tasks most people dread — like scraping thousands of pages without breaking a sweat! 🕷️
+⚡ **Fun fact:** I genuinely enjoy automating boring tasks. If it can be repeated, it can be automated.
 
 
 # 💻 Tech Stack:
