@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m **Saib A.**
+### 👋 Hi there, I’m **Saib Amir**
 
 🔭 **I’m currently working on** web automation bots, smart data scraping pipelines, and tools that help businesses automate repetitive workflows using Python (Selenium, Playwright, Scrapy).
 
